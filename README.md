@@ -1,6 +1,6 @@
 1. Schuljahr (Ausbildung als staatlich geprüfter informationstechnischer Assistent)   
 
-Dieses Projekt war meine fünfte Aufgabe im HTML-Unterricht und das
+Dieses Projekt war meine sechste Aufgabe im HTML-Unterricht und das
 Ziel war eine "Excel"-Tabelle zu erstellen. Diese Tabelle wird mithilfe von verschiedenen "Modis" benutzt.
 
 Schreiben 				- Der Text des Eingabefeldes wird in eine bestimmte Zelle eingefügt.
