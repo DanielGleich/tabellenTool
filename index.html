@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title> Tabellengenerierung</title>
+  </head>
+  <body>
+  <script src="script.js" charset="utf-8"></script>
+	<h1> Editierbare Tabelle </h1>
+	<br>
+	<script>
+		generateTable(5,10);
+	</script>
+	<br>
+  Modus:
+	<select id="modus" onClick="checkUp()" size="1">
+    <option value="0">Schreiben</option>
+    <option value="1">Lesen</option>
+    <option value="2">Tauschen</option>
+    <option value="3">Löschen</option>
+    <option value="4">Markieren</option>
+    <option value="5">Markierung entfernen</option>
+  </select>
+	 <label>Eingabe:</label>
+	<input id="input"></input>
+  <p id="colorbox"></p>
+  </body>
+</html>

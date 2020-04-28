@@ -1,0 +1,29 @@
+td,table	{
+              border:1px solid black;
+              border-collapse:collapse;
+              padding:0.5em;
+          }
+h1  {
+      margin:auto;
+      border:1px solid black;
+      max-width:40%;
+      text-align:center;
+      padding:0.5em;
+    }
+td,th		{
+          min-width: 4em;
+          padding:0.5em;
+        }
+td:hover  {
+            background-color:linen;
+          }
+table		{
+          font-family:sans-serif;
+        }
+.header	{
+          background-color:lightgrey;
+        }
+.hover  {}
+.hover:hover {
+          background-color:linen;
+        }
